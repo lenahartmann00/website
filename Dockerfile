@@ -1,5 +1,6 @@
 FROM nginx:alpine
 
+# Copy all neccessary files
 COPY ./assets /usr/share/nginx/html/assets
 COPY ./images /usr/share/nginx/html/images
 COPY ./sites /usr/share/nginx/html/sites
