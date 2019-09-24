@@ -1,5 +1,5 @@
 *.psd
-*.idea
+.idea/
 images/ignore/
 
 
