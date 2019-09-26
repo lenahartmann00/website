@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccf25676-dcb4-4444-b469-a8fe62df56c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init-letsencrypt.sh" beforeDir="false" afterPath="$PROJECT_DIR$/init-letsencrypt.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/app.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/app.conf" afterDir="false" />
-    </list>
+    <list default="true" id="ccf25676-dcb4-4444-b469-a8fe62df56c1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +30,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/nginx" />
       <recent name="$PROJECT_DIR$/html" />
       <recent name="$PROJECT_DIR$/html/projects" />
