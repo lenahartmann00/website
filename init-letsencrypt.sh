@@ -42,6 +42,8 @@ echo "### Starting nginx ..."
 docker-compose up --force-recreate -d nginx
 echo
 
+sleep 10s
+
 echo "### Deleting dummy certificate for $domains ..."
 docker-compose run --rm --entrypoint "\
   rm -Rf /etc/letsencrypt/live/$domains && \
