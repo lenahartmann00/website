@@ -1,32 +1,39 @@
-# Portfolio - Lena Hartmann
-
-## Intro
-This is my Portfolio. Here you will find everything you need to know about me. If you have any questions or suggestions feel free to contact me.
-
-## Directory
-* Intro
-    * About Me
-        * Education
-        * Interests in IT
-        * Hobbies
-    *  Resume/LinkedIn/GitHub
-* Projects (Android Apps)
-    * Stormy Weather
-    * Brain Trainer
-    * Signals From Mars
-    * Fun Facts
-    * TicTacToe
-* Skills 
-    * Back-End
-    * Front-End
-    * Android App Development
-    * Software/Tools
-* Contact
-    * GitHub/LinkedIn
-    * E-Mail
-    * Address
-
-
-
-<sup><sup> Credits:  Icons: Font Awesome (fontawesome.io); jQuery (jquery.com); Scrollex (github.com/ajlkn/jquery.scrollex); Design-template: html5up.net | @ajlkn; Responsive Tools (github.com/ajlkn/responsive-tools) </sup></sup>
-
+# Work in Progress...
+                                             'xKNNKx,                                       
+                                           ;0MMMMMMMMK;                                     
+                                          xMMMMMMMMMMMMx                                    
+                                         OMMMMMMMMMMMMMMO.                                  
+                                       .KMMMMMMMMMMMMMMMMK.                                 
+                                      ,NMMMMMMMWcoWMMMMMMMN,                                
+                                     :WMMMMMMMN,  ;WMMMMMMMW:                               
+                                    dMMMMMMMMK.    .XMMMMMMMMd                              
+                                   OMMMMMMMMO.      .0MMMMMMMMO                             
+                                 .KMMMMMMMMx          kMMMMMMMMK.                           
+                                'XMMMMMMMMo            oMMMMMMMMX'                          
+                               cWMMMMMMMW;              :WMMMMMMMWc                         
+                              xMMMMMMMMX.                'NMMMMMMMMx                        
+                            .0MMMMMMMMK.           'OK0x, .KMMMMMMMM0.                      
+                           .XMMMMMMMMO             NMMMMMl  OMMMMMMMMK.                     
+                          ,NMMMMMMMMd             .WMMMMMd   dMMMMMMMMN,                    
+                         cWMMMMMMMW:  .xXNNNNNNNNKdc0WMNd     cWMMMMMMMWc                   
+                        dMMMMMMMMN,  ,NMMXKKKNMMMMMX           ,NMMMMMMMMd                  
+                       OMMMMMMMMX.  cWMMk   'NMMMMMMl           .XMMMMMMMMk                 
+                     .KMMMMMMMMO.  xMMWl   :WMMMMMMMN.           .OMMMMMMMMK.               
+                    'NMMMMMMMMl    XMM0,  dMMMMMMNWMMd             oMMMMMMMMN'              
+                   :WMMMMMMMW:      'oKMWKMMMMMM0.lMMW.             :WMMMMMMMW;             
+                  oMMMMMMMMX'          .NMMMMMMk   XMMk              'NMMMMMMMMo            
+                 kMMMMMMMM0.            oNMMMMMWOl.:MMM'              .KMMMMMMMMk           
+               .0MMMMMMMMO              ldod0WMMMMMNMMMO                OMMMMMMMM0.         
+              'XMMMMMMMMd               ;MMWd ;dXMMMMMMMo.            ., xMMMMMMMMX.        
+             lWMMMMMMMWc                .MMMN    .lMMMXo0WXx:.      ,OWMO.cWMMMMMMMWc       
+            xMMMMMMMMN'                ,NMMMo     'MMM0  .;xXMKo' .OMMMMMX.,NMMMMMMMMx      
+           OMMMMMMMMX.                dMMMN;      'MMM0      .l0WNWMMMMMMMN,.XMMMMMMMMO     
+         .KMMMMMMMM0.               .KMMM0.       'MMM0     ..;dNMMMMMMMMMMW:.0MMMMMMMMK.   
+        ,NMMMMMMMMx                lWMMWl         'MMM0  .xNMMMMMMMMMMMMMMMMMo.xMMMMMMMMX'  
+       :WMMMMMMMWl                'MMMK.          .MMMO 'NMMMMMMMMMMMMMMMMMMMMO.lMMMMMMMMW: 
+      cMMMMMMMMW;                  'c,             ,lc. dOOOOOOOOOOOOOOOOOOOOOOo :WMMMMMMMMc
+      NMMMMMMMM0oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0MMMMMMMMN
+      NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN
+      :WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW;
+       .kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk. 
+         .l0NWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWN0o.   
