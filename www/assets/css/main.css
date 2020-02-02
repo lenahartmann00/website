@@ -2002,6 +2002,7 @@ button:hover:active:after,
     background: rgba(255, 255, 255, 0.05);
     margin: 0 0 2em 0;
     font-weight: bold;
+    color: white;
 }
 
 .features section > ul > li > ul {
