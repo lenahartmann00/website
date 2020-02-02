@@ -2001,6 +2001,11 @@ button:hover:active:after,
     border: solid 1px rgba(255, 255, 255, 0.15);
     background: rgba(255, 255, 255, 0.05);
     margin: 0 0 2em 0;
+    font-weight: bold;
+}
+
+.features section > ul > li > ul {
+    margin-bottom: 0;
 }
 
 .features section {
