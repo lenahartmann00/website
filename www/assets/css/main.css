@@ -2798,11 +2798,13 @@ ul.contact > li:first-child {
 ul.icons {
     cursor: default;
     list-style: none;
+    margin: 0;
     padding-left: 0;
+    padding-bottom: 0;
 }
 
 ul.icons li {
-    display: inline-block;
+    /*display: inline-block;*/
     padding: 0 0.75em 0 0;
 }
 
@@ -2810,12 +2812,17 @@ ul.icons li:last-child {
     padding-right: 0;
 }
 
-ul.icons li > a, ul.icons li > span {
+ul.icons li > a, ul.icons li > span{
     border: 0;
     text-decoration: none;
 }
 
-ul.icons li > a:before, ul.icons li > span:before {
+ul.icons li > a > ins {
+    text-decoration: none;
+    padding-left: 0.5em;
+}
+
+  ul.icons li > a:before, ul.icons li > span:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     font-family: FontAwesome;
@@ -2906,13 +2913,18 @@ header h6 + p {
     width: calc(50% - 2.5em);
 }
 
-.split > :nth-child(2n - 1) {
-    padding-right: 2.5em;
+.split > section {
     border-right: solid 1px rgba(255, 255, 255, 0.15);
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
-.split > :nth-child(2n) {
-    padding-left: 2.5em;
+.split > :first-child {
+    padding-left: 0;
+}
+
+.split > :last-child {
+    border-right: 0;
 }
 
 .split.style1 > :nth-child(2n - 1) {
@@ -2929,12 +2941,18 @@ header h6 + p {
         width: calc(50% - 2em);
     }
 
-    .split > :nth-child(2n - 1) {
-        padding-right: 2em;
+    .split> :nth-child(n){
+        padding-left: 2em;
+        padding-right: 0;
     }
 
-    .split > :nth-child(2n) {
-        padding-left: 2em;
+    .split > :first-child {
+        padding-top: 0;
+        padding-left: 0;
+    }
+
+    .split > :last-child {
+        padding-right: 0;
     }
 
     .split.style1 > :nth-child(2n - 1) {
@@ -2953,10 +2971,14 @@ header h6 + p {
         display: block;
     }
 
+    .split > section {
+        border-right: 0;
+    }
+
     .split > * {
         border-top: solid 1px rgba(255, 255, 255, 0.15);
-        margin: 4em 0 0 0;
-        padding: 4em 0 0 0;
+        margin: 2em 0 0 0;
+        padding: 2em 0 0 0;
         width: 100% !important;
     }
 
@@ -2975,13 +2997,17 @@ header h6 + p {
         padding-top: 0;
     }
 
+    .split > :last-child {
+        padding-left: 0;
+    }
+
 }
 
 @media screen and (max-width: 736px) {
 
     .split > * {
-        margin: 3em 0 0 0;
-        padding: 3em 0 0 0;
+        margin: 2em 0 0 0;
+        padding: 2em 0 0 0;
     }
 
 }
@@ -3931,6 +3957,10 @@ body.is-preload #sidebar nav ul li {
 .iconsnou{
     text-decoration:none;
     border:0;
+}
+
+.iconify {
+    color: inherit;
 }
 
 
