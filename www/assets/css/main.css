@@ -1,4 +1,4 @@
-@import url(font-awesome.min.css);
+@import url(all.min.css);
 
 /*
 Hyperspace by HTML5 UP
@@ -2502,14 +2502,13 @@ input[type="radio"] + label:before {
     position: relative;
 }
 
-.icon:before {
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+.icon::before {
+    display: inline-block;
     font-style: normal;
-    font-weight: normal;
-    text-transform: none !important;
-}
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }  
 
 .icon > .label {
     display: none;
@@ -2832,7 +2831,7 @@ ul.icons li > a > ins {
 ul.icons li > a:before, ul.icons li > span:before {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
+    font-family: "Font Awesome 5 Free";
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
